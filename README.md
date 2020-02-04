@@ -1,10 +1,10 @@
 # LAGOS STATE EXECUTIVE COUNCIL MEMBERS API - LSECM
 
-This API returns an/list (of) executive(s) of the Lagos State Council Members.
+This API returns the members of the Lagos State Council.
 
 # Quick Start
 
-Import the executive.sql file, change the params in the config/Database.php file to your own
+Import the executives.sql file, change the params in the config/Database.php file to your own
 
 ### Testing
 
