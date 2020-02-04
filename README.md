@@ -1,6 +1,6 @@
 # LAGOS STATE EXECUTIVE COUNCIL MEMBERS API - LSECM
 
-This API returns the members of the Lagos State Council.
+This API returns the members of the Lagos State Executive Council.
 
 # Quick Start
 
