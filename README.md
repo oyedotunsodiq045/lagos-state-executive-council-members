@@ -110,6 +110,9 @@ Import the executives.sql file, change the params in the config/Database.php fil
 
 ### Author
 
+Sodiq Oyedotun
+[GTech Inc](http://mba-ies-fps.000webhostapp.com/sodiqoyedotun.com/index.html)
+
 ### Version
 
 0.0.1
