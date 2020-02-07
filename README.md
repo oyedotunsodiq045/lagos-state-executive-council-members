@@ -33,27 +33,27 @@ Import the executives.sql file, change the params in the config/Database.php fil
         },
         {
             id: "2",
-            title: "Mr",
-            full_name: "Babajide Sanwo-Olu",
-            portfolio: "Governor",
-            email: "bosgov@lagosstate.gov.ng",
-            contact: "2349017077777"
+            title: "Dr",
+            full_name: "Kadri Obafemi-Hamzat",
+            portfolio: "Deputy Governor",
+            email: "kohdg@lagosstate.gov.ng",
+            contact: "2348032215026"
         },
         {
             id: "3",
-            title: "Mr",
-            full_name: "Babajide Sanwo-Olu",
-            portfolio: "Governor",
-            email: "bosgov@lagosstate.gov.ng",
-            contact: "2349017077777"
+            title: "Mrs",
+            full_name: "Sherifat Folashade Jaji",
+            portfolio: "Secretary to the State Government",
+            email: "sjaji@lagosstate.gov.ng",
+            contact: "2348023122483"
         },
         {
             id: "4",
             title: "Mr",
-            full_name: "Babajide Sanwo-Olu",
-            portfolio: "Governor",
-            email: "bosgov@lagosstate.gov.ng",
-            contact: "2349017077777"
+            full_name: "Hakeem Muri-Okunola",
+            portfolio: "Head of Service",
+            email: "hmo@lagosstate.gov.ng",
+            contact: "2348034030236"
         },
         ...
     ]
