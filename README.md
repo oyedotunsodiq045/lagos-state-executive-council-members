@@ -108,7 +108,7 @@ Import the executives.sql file, change the params in the config/Database.php fil
 }
 ```
 
-#### Docgen
+#### View on Docgen
 
 * URL - http://localhost/lsecm/api/executive/index.html
 
