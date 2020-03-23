@@ -110,7 +110,7 @@ Import the executives.sql file, change the params in the config/Database.php fil
 
 #### View on Docgen
 
-* URL - http://soyedotunprojectdemos.000webhostapp.com/lsecm/index.html
+* [URL](http://soyedotunprojectdemos.000webhostapp.com/lsecm/index.html)
 * LOCAL_URL - http://localhost/lsecm/api/executive/index.html
 
 ![Task screenshot](screenshot.png)
