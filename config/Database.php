@@ -3,8 +3,8 @@
     // DB Params
     private $host = 'localhost';
     private $db_name = 'lsecm';
-    private $username = 'root';
-    private $password = 'i#30L^w@';
+    private $username = 'mysql-username';
+    private $password = 'mysql-password';
     private $conn;
 
     // DB Connect
